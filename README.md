@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on generative adversarial networks
+- 🔭 I’m currently working on the applications of computer vision on drone imagery 
 - 🌱 I’m currently learning computer vision and nlp stuffs
 - 📫 How to reach me: sujan99dutta@gmail.com
 - ⚡ Fun fact: I'm a lefty only while batting
