@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on information extraction from various kinds of text data
-- 🌱 I’m currently learning computer vision and nlp stuffs
+- 🔭 I’m currently working on NLP for social good
+- 🌱 I’m currently pursuing MS in Data Science
 - 📫 How to reach me: sujan99dutta@gmail.com
 - ⚡ Fun fact: I'm a lefty only while batting
 
