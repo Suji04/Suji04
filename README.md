@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NLP for social good
-- 🌱 I’m currently pursuing MS in Data Science
+- 🔭 I’m currently working on NLP and Computational Social Science
+- 🌱 I’m currently pursuing PhD
 - 📫 How to reach me: sujan99dutta@gmail.com
 - ⚡ Fun fact: I'm a lefty only while batting
 
