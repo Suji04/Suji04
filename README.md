@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on NLP and Computational Social Science
-- 🌱 I’m currently pursuing PhD
+- 🌱 I’m currently pursuing PhD at RIT, NY
 - 📫 How to reach me: sujan99dutta@gmail.com
 - ⚡ Fun fact: I'm a lefty only while batting
 
