@@ -23,11 +23,3 @@ Here are some ideas to get you started:
 <h3 align='center'> Interested in Machine Learning 🤖 and Data Science 📊?
   
 I bet you'll love <a href="https://www.youtube.com/NormalizedNerd"> Normalized Nerd</a>. </h3>
-
-<p align="center">
-  <a href="https://www.reddit.com/user/nerdy_wits"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/nerdy_wits?color=FF4500&label=u%2Fnerdy_wits&logo=reddit&style=for-the-badge"></a>   <a href="https://twitter.com/normalized_nerd"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/normalized_nerd?color=09f&label=%40normalized_nerd&logo=twitter&style=for-the-badge"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suji04&style=plastic&color=ff4d4d">
-</p>
